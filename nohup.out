@@ -1,0 +1,42 @@
+[I 11:18:57.952 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+[W 11:18:58.410 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 11:18:58.414 NotebookApp] Serving notebooks from local directory: /home/nvidia/nvme/cmt_subway_api_dev/paddle_demo
+[I 11:18:58.414 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 11:18:58.415 NotebookApp] http://nvidia-desktop:8888/
+[I 11:18:58.415 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:18:58.424 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:28:24.824 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+[W 11:28:25.275 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 11:28:25.280 NotebookApp] Serving notebooks from local directory: /home/nvidia/nvme/cmt_subway_api_dev/paddle_demo
+[I 11:28:25.280 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 11:28:25.280 NotebookApp] http://nvidia-desktop:8888/
+[I 11:28:25.280 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:28:25.289 NotebookApp] No web browser found: could not locate runnable browser.
+[W 11:28:27.299 NotebookApp] 404 DELETE /api/sessions/a4c99369-c08b-47a5-b222-ab87960a6ba1 (192.168.2.21): Session not found: session_id='a4c99369-c08b-47a5-b222-ab87960a6ba1'
+[W 11:28:27.300 NotebookApp] Session not found: session_id='a4c99369-c08b-47a5-b222-ab87960a6ba1'
+[W 11:28:27.300 NotebookApp] 404 DELETE /api/sessions/a4c99369-c08b-47a5-b222-ab87960a6ba1 (192.168.2.21) 3.980000ms referer=http://192.168.2.30:8888/notebooks/src/Untitled.ipynb?kernel_name=python3
+[I 11:28:27.421 NotebookApp] Kernel started: 1514ac59-0905-4b38-9284-70841740fa47, name: python3
+[I 11:29:59.104 NotebookApp] Saving file at /src/Untitled.ipynb
+W0919 11:30:03.458165 17300 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.2, Driver API Version: 10.2, Runtime API Version: 10.2
+W0919 11:30:03.462033 17300 gpu_resources.cc:91] device: 0, cuDNN Version: 8.2.
+[I 11:31:59.037 NotebookApp] Saving file at /src/Untitled.ipynb
+[W 11:33:13.150 NotebookApp] Notebook src/Untitled.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 37ebe5d8-4506-4921-a6de-779d5cfba285
+[I 11:33:59.746 NotebookApp] Saving file at /src/手写识别的入门模型.ipynb
+[W 13:27:07.873 NotebookApp] Replacing stale connection: 1514ac59-0905-4b38-9284-70841740fa47:009a0696443d4f4c86cf6764c0719b98
+[I 13:27:12.874 NotebookApp] Starting buffering for 1514ac59-0905-4b38-9284-70841740fa47:009a0696443d4f4c86cf6764c0719b98
+[I 13:27:12.877 NotebookApp] Restoring connection for 1514ac59-0905-4b38-9284-70841740fa47:009a0696443d4f4c86cf6764c0719b98
+[I 14:20:30.037 NotebookApp] Starting buffering for 1514ac59-0905-4b38-9284-70841740fa47:009a0696443d4f4c86cf6764c0719b98
+[I 10:23:48.894 NotebookApp] 302 GET / (192.168.2.21) 1.810000ms
+[W 10:24:07.385 NotebookApp] Notebook src/手写识别的入门模型.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2209fefa-219f-4de3-86eb-8b040aa26ee4
+[I 10:24:30.139 NotebookApp] 302 GET /notebooks/src/ (192.168.2.21) 1.190000ms
+[I 10:24:30.145 NotebookApp] 302 GET /notebooks/src (192.168.2.21) 1.640000ms
+[I 10:24:30.222 NotebookApp] Starting buffering for 1514ac59-0905-4b38-9284-70841740fa47:448c784215c04d9f8ab8497c6ea896f8
+[I 10:24:34.700 NotebookApp] Creating new notebook in /src
+[I 10:24:35.902 NotebookApp] Kernel started: a8185826-194c-4cac-bfad-992b2c7c2190, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 58863ee5-d954-4f85-aaa5-0e592cdd89cd
+[I 10:26:35.913 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
