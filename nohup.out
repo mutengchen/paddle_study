@@ -40,3 +40,62 @@ W0919 11:30:03.462033 17300 gpu_resources.cc:91] device: 0, cuDNN Version: 8.2.
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 58863ee5-d954-4f85-aaa5-0e592cdd89cd
 [I 10:26:35.913 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 11:43:41.425 NotebookApp] Replacing stale connection: a8185826-194c-4cac-bfad-992b2c7c2190:95f2dc10b96a4a91878efabdc029d6d2
+[I 11:43:46.429 NotebookApp] Starting buffering for a8185826-194c-4cac-bfad-992b2c7c2190:95f2dc10b96a4a91878efabdc029d6d2
+[I 11:43:46.432 NotebookApp] Restoring connection for a8185826-194c-4cac-bfad-992b2c7c2190:95f2dc10b96a4a91878efabdc029d6d2
+[I 14:09:16.593 NotebookApp] Starting buffering for a8185826-194c-4cac-bfad-992b2c7c2190:95f2dc10b96a4a91878efabdc029d6d2
+[W 16:39:00.841 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 79bb1285-68ca-41b4-b324-5050c19192e2
+[I 16:41:01.030 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:43:01.035 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:45:01.005 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:51:01.057 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:53:01.054 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:55:01.029 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 16:59:01.014 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[I 17:01:01.059 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[C 17:04:25.672 NotebookApp] received signal 15, stopping
+[I 17:04:25.673 NotebookApp] Shutting down 2 kernels
+[I 17:04:25.677 NotebookApp] Kernel shutdown: 1514ac59-0905-4b38-9284-70841740fa47
+[I 17:04:25.678 NotebookApp] Kernel shutdown: a8185826-194c-4cac-bfad-992b2c7c2190
+
+
+--------------------------------------
+C++ Traceback (most recent call last):
+--------------------------------------
+No stack trace in paddle, may be caused by external reasons.
+
+----------------------
+Error Message Summary:
+----------------------
+FatalError: `Termination signal` is detected by the operating system.
+  [TimeInfo: *** Aborted at 1663664665 (unix time) try "date -d @1663664665" if you are using GNU date ***]
+  [SignalInfo: *** SIGTERM (@0x1) received by PID 20303 (TID 0x7fad7a4010) from PID 1 ***]
+
+
+
+--------------------------------------
+C++ Traceback (most recent call last):
+--------------------------------------
+No stack trace in paddle, may be caused by external reasons.
+
+----------------------
+Error Message Summary:
+----------------------
+FatalError: `Termination signal` is detected by the operating system.
+  [TimeInfo: *** Aborted at 1663664665 (unix time) try "date -d @1663664665" if you are using GNU date ***]
+  [SignalInfo: *** SIGTERM (@0x1) received by PID 17300 (TID 0x7fa36af010) from PID 1 ***]
+
+[I 17:04:25.799 NotebookApp] Shutting down 0 terminals
+[I 17:31:18.013 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+[W 17:31:18.630 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 17:31:18.635 NotebookApp] Serving notebooks from local directory: /home/nvidia/nvme/cmt_subway_api_dev/paddle_demo
+[I 17:31:18.635 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 17:31:18.635 NotebookApp] http://nvidia-desktop:8888/
+[I 17:31:18.635 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:31:18.646 NotebookApp] No web browser found: could not locate runnable browser.
+[W 17:31:22.349 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:31:22.650 NotebookApp] Kernel started: f664ee02-6733-4e9c-875a-c7feeda64571, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 3c22495d-1e83-4c87-b8d5-60c93b483820
