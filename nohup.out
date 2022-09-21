@@ -99,3 +99,113 @@ FatalError: `Termination signal` is detected by the operating system.
 [I 17:31:22.650 NotebookApp] Kernel started: f664ee02-6733-4e9c-875a-c7feeda64571, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 3c22495d-1e83-4c87-b8d5-60c93b483820
+[I 17:35:22.636 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:35:22.637 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:37:22.664 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:37:22.664 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:39:22.625 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:39:22.625 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:41:22.640 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:41:22.641 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:43:22.670 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:43:22.670 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:47:22.655 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:47:22.656 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:49:22.630 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:49:22.631 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:51:22.699 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:51:22.699 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 11:42:53.178 NotebookApp] 302 GET / (192.168.2.253) 1.020000ms
+[W 11:43:08.995 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b20ab38f-dadf-4b4d-8a73-f7020879a23f
+[W 11:54:04.796 NotebookApp] Replacing stale connection: f664ee02-6733-4e9c-875a-c7feeda64571:5a32b52da1a34eea8dfc18895a40a0ef
+[W 11:54:19.268 NotebookApp] Replacing stale connection: f664ee02-6733-4e9c-875a-c7feeda64571:7a1add65e1704ce2ac619f8ecdc5e375
+[I 11:59:50.832 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 11:59:50.833 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+W0921 12:00:21.506635 10351 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.2, Driver API Version: 10.2, Runtime API Version: 10.2
+W0921 12:00:21.510584 10351 gpu_resources.cc:91] device: 0, cuDNN Version: 8.2.
+[I 12:01:09.337 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:01:09.338 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:01:32.004 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:01:32.005 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:03:09.316 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:03:09.317 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:25:09.340 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:25:09.341 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:27:09.375 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:27:09.376 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:27:31.446 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:27:31.447 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 12:29:09.348 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 12:29:09.349 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:07:09.407 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:07:09.407 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:09:09.397 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:09:09.397 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:11:09.393 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:11:09.394 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:15:09.411 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:15:09.412 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:17:09.573 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:17:09.574 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:19:09.414 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:19:09.415 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:21:09.412 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:21:09.412 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 14:23:09.446 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 14:23:09.447 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:47:09.534 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:47:09.535 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:49:09.472 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:49:09.472 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:51:09.512 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:51:09.512 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:53:09.520 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:53:09.521 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:55:09.474 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:55:09.476 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 15:59:09.517 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 15:59:09.518 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 16:05:09.498 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 16:05:09.498 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 16:07:09.515 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 16:07:09.516 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 16:11:09.497 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 16:11:09.498 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 16:13:09.496 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 16:13:09.497 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:03:09.518 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:03:09.519 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:05:09.522 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:05:09.523 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:07:09.527 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:07:09.528 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:15:42.123 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:15:42.124 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:17:08.789 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:17:08.790 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:18:01.771 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:18:01.772 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:18:52.028 NotebookApp] 302 GET /notebooks/src/ (192.168.2.21) 1.320000ms
+[I 17:18:52.036 NotebookApp] 302 GET /notebooks/src (192.168.2.21) 1.430000ms
+[I 17:18:52.077 NotebookApp] Saving file at /src/Mnist-网络模型-损失函数-优化算法.ipynb
+[W 17:18:52.078 NotebookApp] Notebook src/Mnist-网络模型-损失函数-优化算法.ipynb is not trusted
+[I 17:18:56.992 NotebookApp] Creating new notebook in /src
+[I 17:18:59.437 NotebookApp] Kernel started: d954339e-19bf-4695-b83e-471322cf6640, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e6306722-12ae-4b1e-a1af-5ed588a04e1a
+[I 17:19:21.978 NotebookApp] Creating new directory in /src
+[I 17:19:54.320 NotebookApp] Creating new notebook in /src/Untitled Folder
+[I 17:19:55.786 NotebookApp] Kernel started: da9e9d6f-581b-47a1-8b85-1def79435fb3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: af245437-b806-489b-85d6-39e2c08d1d50
+[I 17:19:58.238 NotebookApp] Starting buffering for d954339e-19bf-4695-b83e-471322cf6640:383f43e71a3a4cdf89e9be3b2f58f1c3
+W0921 17:21:28.274570  4565 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.2, Driver API Version: 10.2, Runtime API Version: 10.2
+W0921 17:21:28.279539  4565 gpu_resources.cc:91] device: 0, cuDNN Version: 8.2.
+[I 17:21:55.786 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
+[I 17:23:55.855 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
+[I 17:29:55.833 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
+[I 17:31:55.830 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
+[I 17:33:55.841 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
+[I 17:35:55.852 NotebookApp] Saving file at /src/Untitled Folder/卷积神经网络.ipynb
